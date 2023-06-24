@@ -1,0 +1,92 @@
+body{
+    margin: 0%;
+    background-color: black;
+}
+
+video{
+    position:fixed;
+    top: 0%;
+    min-width: 100%;
+    min-height: 100%;
+    height: 100%;
+    z-index: -2;
+}
+div img:hover{
+    background-color:grey;
+    cursor: pointer;
+}
+
+#sect1{
+    color: white;
+    margin-left: 15%;
+    margin-top: -2%;
+    text-decoration: none;
+}
+
+.viaja{
+    text-decoration: none;
+    color: white;
+    font-size: larger;
+    cursor: pointer;
+}
+#sect2{
+    color: white;
+    margin-left: 15%;
+    margin-top: 12%;
+    font-size: 50px;
+    font-weight:bold;
+}
+
+#sect3{
+    color: white;
+    margin-left: 15%;
+    margin-top: -5%;
+    font-size: 38px;
+    font-weight:bold;
+}
+
+#sect4{
+    color:white;
+    margin-left: 15%;
+    margin-top: -3%;
+    font-size: 26px;
+}
+ .btn{
+    background-color: white;
+    padding-left: 1.5%;
+    padding-top: 0.5%;
+    padding-right: 1.5%;
+    padding-bottom: 0.5%;
+    margin-left: 15%;
+    border: none;
+    cursor: pointer;
+ }
+
+ footer .fb{
+    margin-left: 15%;
+    color: white;
+    margin-bottom: -20%;
+    cursor: pointer;
+    width: 1%;
+    padding-bottom: 2%;
+    
+ }
+
+ footer .tw{
+    margin-left: 1%;
+    color: white;
+    margin-bottom: -20%;
+    cursor: pointer;
+    width: 2%;
+    padding-bottom: 2%;
+
+ }
+
+ footer .in{
+    margin-left: 1%;
+    color: white;
+    margin-bottom: -20%;
+    cursor: pointer;
+    width: 2%;
+    padding-bottom: 2%;
+ }
