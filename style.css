@@ -65,7 +65,7 @@ div img:hover{
  footer .fb{
     margin-left: 15%;
     color: white;
-    margin-bottom: -20%;
+    margin-bottom: -15%;
     cursor: pointer;
     width: 1%;
     padding-bottom: 2%;
@@ -75,7 +75,7 @@ div img:hover{
  footer .tw{
     margin-left: 1%;
     color: white;
-    margin-bottom: -20%;
+    margin-bottom: -15%;
     cursor: pointer;
     width: 2%;
     padding-bottom: 2%;
@@ -85,7 +85,7 @@ div img:hover{
  footer .in{
     margin-left: 1%;
     color: white;
-    margin-bottom: -20%;
+    margin-bottom: -15%;
     cursor: pointer;
     width: 2%;
     padding-bottom: 2%;
